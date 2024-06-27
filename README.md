@@ -1,10 +1,9 @@
 # **KAVACH'23**
 ## Team - BYTEWATCH
+<a href="Bytewatch Logo.png" target="blank"><img align="right" src="Bytewatch Logo.png" alt="bytewatch_" height="180" width="180" /></a>
 ### Bytewatch: Every Byte Matters
-<h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="Bytewatch Logo.png">
-<h3 align="left">Connect with us:</h3>
 <p align="left">
+<h3 align="left">Connect with us:</h3>
 <a href="https://twitter.com/bytewatch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytewatch_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/bytewatch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bytewatch_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bytewatch_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bytewatch_" height="30" width="40" /></a>
