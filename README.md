@@ -1,13 +1,12 @@
 # **KAVACH'23**
 ## Team - BYTEWATCH
+<a href="Bytewatch Logo.png" target="blank"><img align="right" src="Bytewatch Logo.png" alt="bytewatch_" height="180" width="180" /></a>
 ### Bytewatch: Every Byte Matters
-<h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1087008699459043451/1133400884898963507/20230725_193319_0000.png">
-<h3 align="left">Connect with us:</h3>
 <p align="left">
+<h3 align="left">Connect with us:</h3>
 <a href="https://twitter.com/bytewatch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytewatch_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bytewatch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bytewatch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bytewatch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bytewatch_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/bytewatch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bytewatch_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bytewatch_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bytewatch_" height="30" width="40" /></a>
 </p>
 
 ## Members :-
